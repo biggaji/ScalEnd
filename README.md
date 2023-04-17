@@ -1,2 +1,2 @@
-# ScalEnd
+# Shark
 Built with Scala
